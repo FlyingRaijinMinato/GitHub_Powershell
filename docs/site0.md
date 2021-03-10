@@ -1,5 +1,7 @@
 # LockdownSSL DataStructure
 
+***
+
 ## Description
 This is a DataStructure providing ...
 
@@ -14,12 +16,14 @@ Inherits from [OtherDataStructure](https://google.com)
 ### Functions
 
 #### `int foo(int* lal, int s)` 4
-[Does some stuff, returns other stuff]
+Does some stuff, returns other stuff
 
-##### lol 5
+##### `int foo(int* lal, int s)` 5
+Does some stuff, returns other stuff
 
 ### Variables
-###### `m_Member` [Thing type for bla bla] 6
+###### `int foo(int* lal, int s)` 6
+Does some stuff, returns other stuff
 
 ## Protected Members
 
