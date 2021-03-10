@@ -8,22 +8,30 @@ This is a DataStructure providing ...
 * Namespace `LockdownSSL::`
 * Templated  with `template<>`
 
+***
+
 ## Inheritance
 Inherits from [OtherDataStructure](https://google.com)
+
+***
 
 ## Public Members
 
 ### Functions
 
-#### `int foo(int* lal, int s)` 4
+`int foo(int* lal, int s)` 4
 Does some stuff, returns other stuff
 
 ##### `int foo(int* lal, int s)` 5
 Does some stuff, returns other stuff
 
+***
+
 ### Variables
 ###### `int foo(int* lal, int s)` 6
 Does some stuff, returns other stuff
+
+***
 
 ## Protected Members
 
