@@ -13,12 +13,13 @@ Inherits from [OtherDataStructure](https://google.com)
 
 ### Functions
 
-* `int foo(int* lal, int s)`
+#### `int foo(int* lal, int s)` 4
 [Does some stuff, returns other stuff]
 
-* lol
+##### lol 5
+
 ### Variables
-* `m_Member` [Thing type for bla bla]
+###### `m_Member` [Thing type for bla bla] 6
 
 ## Protected Members
 
